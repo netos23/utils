@@ -6,9 +6,7 @@ import java.util.Scanner;
 
 /**
  * Версия 0.1
- *
- * Ссылка на github:
- *
+ * Ссылка на github: https://github.com/netos23/utils
  * */
 public class ArrayUtils {
 
